@@ -1,7 +1,8 @@
 // mod sec06;
 // mod sec09;
 // mod sec10;
-mod chap2_sec03;
+// mod chap2_sec03;
+mod chap2_sec05;
 
 fn main() {
     // sec06::kuku()
@@ -11,5 +12,6 @@ fn main() {
     // let mut primes = [0; 100];
     // sec10::get_primes(&mut primes);
 
-    chap2_sec03::main();
+    // chap2_sec03::main();
+    chap2_sec05::main();
 }
