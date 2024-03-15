@@ -12,7 +12,8 @@
 // mod chap3_sec06;
 // mod chap3_sec07;
 // mod chap3_sec08;
-mod chap4_sec01;
+// mod chap4_sec01;
+mod chap4_sec02;
 
 fn main() {
     // sec06::kuku()
@@ -33,5 +34,6 @@ fn main() {
     // chap3_sec06::main();
     // chap3_sec07::main();
     // chap3_sec08::main();
-    chap4_sec01::main();
+    // chap4_sec01::main();
+    chap4_sec02::main();
 }
